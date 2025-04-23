@@ -5,7 +5,7 @@ def calculator():
 
 if operation == '+':
         result = num1 + num2
-    elif operation == '-':
+     elif operation == '-':
         result = num1 - num2
     elif operation == '*':
         result = num1 * num2
